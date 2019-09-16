@@ -1,3 +1,10 @@
+# stl file for pyb_f1
+- 外壳，底板等stl文件
+
+# DXF文件
+
+- 尺寸文件
+
 # PYB_F1_examples
 
 - micropython scripts for PYB_F1 board.
